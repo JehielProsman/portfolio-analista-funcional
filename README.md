@@ -5,7 +5,7 @@
 📍 Rosario, Santa Fe, Argentina  
 📧 jehielprosman@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/jehielprosman)  
-📄 [Descargar CV](TU_LINK_DE_GOOGLE_DRIVE_ACÁ)
+📄 CV disponible a solicitud — jehielprosman@gmail.com
 
 ---
 
@@ -35,7 +35,7 @@ Finalizando la carrera de **Analista de Sistemas de Información** (2 materias r
 | Metodologías | Scrum, Sprints |
 | ERP / Sistemas | SAP SD, Softland, Synagro, Salesforce |
 | IA Aplicada | ChatGPT, Claude, Gemini |
-| Desarrollo | PHP, Python, Java, C#, HTML |
+| Desarrollo | PHP, Python, Java, C#, HTML, .NET |
 
 ---
 
