@@ -11,7 +11,7 @@
 
 ## 🧑‍💼 Sobre mí
 
-Analista Funcional y Tester Manual con casi 3 años de experiencia en relevamiento 
+Analista Funcional y Tester QA Manual con casi 3 años de experiencia en relevamiento 
 de requerimientos, testing QA/UAT y documentación funcional, más casi 8 años en 
 administración comercial, créditos, cobranzas y logística en el sector agroindustrial.
 
