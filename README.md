@@ -11,15 +11,11 @@
 
 ## 🧑‍💼 Sobre mí
 
-Analista Funcional y Tester QA Manual con casi 3 años de experiencia en relevamiento 
-de requerimientos, testing QA/UAT y documentación funcional, más casi 8 años en 
-administración comercial, créditos, cobranzas y logística en el sector agroindustrial.
+Analista Funcional y Tester QA Manual con casi 3 años de experiencia en relevamiento de requerimientos, testing QA/UAT y documentación funcional, más casi 8 años en administración comercial, créditos, cobranzas y logística en el sector agroindustrial.
 
-Perfil híbrido IT–negocio: entiendo el negocio desde adentro y lo traduco en 
-requerimientos accionables para el equipo de desarrollo.
+Perfil híbrido IT–negocio: entiendo el negocio desde adentro y lo traduco en requerimientos accionables para el equipo de desarrollo.
 
-En mi equipo me llaman **"el rompedor"** — porque encuentro los bugs antes de que 
-lleguen a producción.
+Me han dicho que soy el que siempre **rompe** — porque encuentro los bugs antes de que lleguen a producción.
 
 Finalizando la carrera de **Analista de Sistemas de Información** (2 materias restantes).
 
